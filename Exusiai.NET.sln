@@ -1,0 +1,21 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exusiai.Transport", "src\Exusiai.Transport\Exusiai.Transport.csproj", "{B334E044-25C9-476C-A6D2-1D0DDFD7F146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exusiai.Core", "src\Exusiai.Core\Exusiai.Core.csproj", "{61CB2A0B-2CC7-42FC-8D25-33CB6C408FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B334E044-25C9-476C-A6D2-1D0DDFD7F146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B334E044-25C9-476C-A6D2-1D0DDFD7F146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B334E044-25C9-476C-A6D2-1D0DDFD7F146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B334E044-25C9-476C-A6D2-1D0DDFD7F146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CB2A0B-2CC7-42FC-8D25-33CB6C408FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CB2A0B-2CC7-42FC-8D25-33CB6C408FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CB2A0B-2CC7-42FC-8D25-33CB6C408FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CB2A0B-2CC7-42FC-8D25-33CB6C408FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
